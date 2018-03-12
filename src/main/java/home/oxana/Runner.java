@@ -9,6 +9,6 @@ public class Runner {
     }
 
     static String getStringToPrint() {
-        return "Hello world!!";
+        return "Hello world!";
     }
 }
